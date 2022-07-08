@@ -1,0 +1,48 @@
+2022-07-05 23:19:39,063 INFO [root] [base.py (__init__:19] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="5be3b74507a85e2ac05954a6117f576d")>
+2022-07-05 23:19:39,065 INFO [root] [base.py (__init__:19] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="5be3b74507a85e2ac05954a6117f576d")>
+2022-07-05 23:19:39,066 INFO [root] [base.py (__init__:19] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="5be3b74507a85e2ac05954a6117f576d")>
+2022-07-05 23:19:39,206 INFO [root] [page_pm_login.py (page_login_task:41] - 正在执行登入操作，用户名：13911111111,验证码246810
+2022-07-05 23:19:39,206 INFO [root] [page_pm_login.py (page_input_username:24] - 输入用户名：13911111111
+2022-07-05 23:19:39,207 INFO [root] [base.py (base_find:24] - 正在查找元素('css selector', '[placeholder="请输入手机号"]')
+2022-07-05 23:19:46,115 INFO [root] [base.py (base_input:30] - 正在清理信息
+2022-07-05 23:20:01,545 INFO [root] [page_pm_artical.py (page_click_content:30] - 正在点击内容发布
+2022-07-05 23:20:01,545 INFO [root] [base.py (base_click:40] - 正在进行点击操作
+2022-07-05 23:20:01,545 INFO [root] [base.py (base_find:24] - 正在查找元素('css selector', '[class="el-submenu__title"]')
+2022-07-05 23:41:48,388 INFO [root] [base.py (__init__:19] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="e15dd13c-a729-4e8e-bc4d-fa835f5247ad")>
+2022-07-05 23:41:48,388 INFO [root] [base.py (__init__:19] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="e15dd13c-a729-4e8e-bc4d-fa835f5247ad")>
+2022-07-05 23:41:48,388 INFO [root] [base.py (base_click:40] - 正在进行点击操作
+2022-07-05 23:41:48,388 INFO [root] [base.py (base_find:24] - 正在查找元素('xpath', "//*[@text='我' and index='2']")
+2022-07-05 23:45:49,186 INFO [root] [base.py (__init__:19] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="24980e3a-fe58-49ac-b656-67571626a6d3")>
+2022-07-05 23:45:49,186 INFO [root] [base.py (__init__:19] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="24980e3a-fe58-49ac-b656-67571626a6d3")>
+2022-07-05 23:45:49,186 INFO [root] [base.py (base_click:40] - 正在进行点击操作
+2022-07-05 23:45:49,186 INFO [root] [base.py (base_find:24] - 正在查找元素('xpath', "//*[@resource-id='com.netease.newsreader.activity:id/zg']")
+2022-07-05 23:46:02,328 INFO [root] [base.py (base_click:40] - 正在进行点击操作
+2022-07-05 23:46:02,328 INFO [root] [base.py (base_find:24] - 正在查找元素('xpath', "//*[@text='登入' and index='0']")
+2022-07-05 23:46:42,903 INFO [root] [base.py (__init__:19] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="e94f104f-db39-4e2f-a28c-4e0038429091")>
+2022-07-05 23:46:42,903 INFO [root] [base.py (__init__:19] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="e94f104f-db39-4e2f-a28c-4e0038429091")>
+2022-07-05 23:46:42,903 INFO [root] [base.py (base_click:40] - 正在进行点击操作
+2022-07-05 23:46:42,903 INFO [root] [base.py (base_find:24] - 正在查找元素('xpath', "//*[@resource-id='com.netease.newsreader.activity:id/zg']")
+2022-07-05 23:46:50,920 INFO [root] [base.py (base_click:40] - 正在进行点击操作
+2022-07-05 23:46:50,920 INFO [root] [base.py (base_find:24] - 正在查找元素('xpath', "//*[@text='登入' and index='0']")
+2022-07-05 23:47:42,964 INFO [root] [base.py (__init__:19] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="a5aa8c4f-cb48-4e6e-9353-ae19d047fa1a")>
+2022-07-05 23:47:42,964 INFO [root] [base.py (__init__:19] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="a5aa8c4f-cb48-4e6e-9353-ae19d047fa1a")>
+2022-07-05 23:47:42,964 INFO [root] [base.py (base_click:40] - 正在进行点击操作
+2022-07-05 23:47:42,964 INFO [root] [base.py (base_find:24] - 正在查找元素('xpath', "//*[@resource-id='com.netease.newsreader.activity:id/zg']")
+2022-07-05 23:47:53,997 INFO [root] [base.py (base_click:40] - 正在进行点击操作
+2022-07-05 23:47:53,997 INFO [root] [base.py (base_find:24] - 正在查找元素('xpath', "//*[@text='登入' and index='0']")
+2022-07-05 23:49:49,942 INFO [root] [base.py (__init__:19] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="ecf6a706-2ef2-48f6-9a2a-52135859bbf0")>
+2022-07-05 23:49:49,942 INFO [root] [base.py (__init__:19] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="ecf6a706-2ef2-48f6-9a2a-52135859bbf0")>
+2022-07-05 23:49:49,942 INFO [root] [base.py (base_click:40] - 正在进行点击操作
+2022-07-05 23:49:49,942 INFO [root] [base.py (base_find:24] - 正在查找元素('xpath', "//*[@resource-id='com.netease.newsreader.activity:id/zf']")
+2022-07-05 23:49:54,911 INFO [root] [base.py (base_click:40] - 正在进行点击操作
+2022-07-05 23:49:54,911 INFO [root] [base.py (base_find:24] - 正在查找元素('xpath', "//*[@text='登入' and index='0']")
+2022-07-05 23:52:46,159 INFO [root] [base.py (__init__:19] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="b29ba989-271b-4efa-8762-c3b9b097b341")>
+2022-07-05 23:52:46,159 INFO [root] [base.py (__init__:19] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="b29ba989-271b-4efa-8762-c3b9b097b341")>
+2022-07-05 23:52:46,159 INFO [root] [base.py (base_click:40] - 正在进行点击操作
+2022-07-05 23:52:46,159 INFO [root] [base.py (base_find:24] - 正在查找元素('xpath', "//*[@bounds='[983,2162][1016,2190]']")
+2022-07-05 23:52:51,410 INFO [root] [base.py (base_click:40] - 正在进行点击操作
+2022-07-05 23:52:51,410 INFO [root] [base.py (base_find:24] - 正在查找元素('xpath', "//*[@text='登入' and index='0']")
+2022-07-05 23:54:40,939 INFO [root] [base.py (__init__:19] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="c0640983-b0b1-49eb-a8b5-55c809580f0c")>
+2022-07-05 23:54:40,939 INFO [root] [base.py (__init__:19] - 正在初始化driver：<appium.webdriver.webdriver.WebDriver (session="c0640983-b0b1-49eb-a8b5-55c809580f0c")>
+2022-07-05 23:54:40,939 INFO [root] [base.py (base_click:40] - 正在进行点击操作
+2022-07-05 23:54:40,939 INFO [root] [base.py (base_find:24] - 正在查找元素('xpath', "//*[@bounds='[964,2204]']")
