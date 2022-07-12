@@ -60,28 +60,28 @@ class Base:
 
     # 跳转ifram
     def base_switch_ifram(self,fid):
-        self.driver.switch_to_frame(fid)
+        self.driver.switch_to.frame(fid)
 
     # 退出ifram页面
     def base_switch_default(self):
-        self.driver.switch_to_default_content()
+        self.driver.switch_to.default_content()
 
 
     # 获取图片
     def base_get_errimg(self):
         log.error("断言错误，正在截图")
-        self.driver.get_screenshot_as_file("../imgs/eer.png")
+        self.driver.get_screenshot_as_file("./imgs/eer.png")
         log.error("正在将截图写入报告")
         self._base_write_img()
 
     # 获取图片
     def base_get_infoimg(self):
         log.error("正在截图")
-        self.driver.get_screenshot_as_file("../imgs/info.png")
+        self.driver.get_screenshot_as_file("./imgs/info.png")
 
 
     # 写入照片
     def _base_write_img(self):
-        with open("../imgs/eer.png","rb") as f:
+        with open("./imgs/eer.png","rb") as f:
             allure.attach(f.read(),"错误原因",allure.attachment_type.PNG)
 

@@ -10,7 +10,7 @@ class GetLog(object):
             cls.__logger = logging.getLogger()
             #修改默认级别
             cls.__logger.setLevel(logging.INFO)
-            file = "../logging/hmtt.log"
+            file = "./logging/hmtt.log"
             #获取处理器
             th = logging.handlers.TimedRotatingFileHandler(filename=file,
                                                            when="midnight",
