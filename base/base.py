@@ -60,11 +60,11 @@ class Base:
 
     # 跳转ifram
     def base_switch_ifram(self,fid):
-        self.driver.switch_to.frame(fid)
+        self.driver.switch_to_frame(fid)
 
     # 退出ifram页面
     def base_switch_default(self):
-        self.driver.switch_to.default_content()
+        self.driver.switch_to_default_content()
 
 
     # 获取图片
