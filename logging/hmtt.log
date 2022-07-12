@@ -1,0 +1,564 @@
+2022-07-12 01:28:04,887 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:811] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AD305F1808>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+2022-07-12 01:28:06,997 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:811] - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AD30614BC8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+2022-07-12 01:28:09,028 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:811] - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AD3061D508>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+2022-07-12 01:28:13,872 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:811] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AD312FB2C8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+2022-07-12 01:28:15,904 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:811] - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AD312FBC88>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+2022-07-12 01:28:17,935 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:811] - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AD31276A88>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+2022-07-12 01:28:22,296 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:811] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AD310D2308>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+2022-07-12 01:28:24,327 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:811] - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AD310D2B48>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+2022-07-12 01:28:26,374 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:811] - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AD31221608>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+2022-07-12 01:28:30,703 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:811] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AD3076B048>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+2022-07-12 01:28:32,735 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:811] - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AD310EF648>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+2022-07-12 01:28:34,767 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:811] - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AD310EF208>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+2022-07-12 01:28:41,955 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="2bde089ecbe40c90c8fb906a4eff626c")>
+2022-07-12 01:28:41,955 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="2bde089ecbe40c90c8fb906a4eff626c")>
+2022-07-12 01:28:41,955 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="2bde089ecbe40c90c8fb906a4eff626c")>
+2022-07-12 01:28:41,958 INFO [root] [page_pm_login.py (page_login_article:48] - 正在执行登入操作，用户名：13911111111,验证码：246810
+2022-07-12 01:28:41,958 INFO [root] [page_pm_login.py (page_input_username:24] - 输入用户名：13911111111
+2022-07-12 01:28:41,959 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请输入手机号"]')
+2022-07-12 01:28:41,982 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 01:28:48,096 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 01:28:48,130 INFO [root] [page_pm_login.py (page_input_code:28] - 输入验证码：246810
+2022-07-12 01:28:48,131 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="验证码"]')
+2022-07-12 01:28:48,139 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 01:28:54,223 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 01:28:57,254 INFO [root] [page_pm_login.py (page_click_login_btn:33] - 点击登入按钮
+2022-07-12 01:28:57,254 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 01:28:57,254 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-button el-button--primary"]')
+2022-07-12 01:28:57,301 INFO [root] [page_pm_artical.py (page_click_content:30] - 正在点击内容发布
+2022-07-12 01:28:57,302 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 01:28:57,302 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-submenu__title"]')
+2022-07-12 01:28:58,472 INFO [root] [page_pm_artical.py (page_click_postartical:35] - 点击发布文章
+2022-07-12 01:28:58,473 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//li[contains(text(), '发布文章')]")
+2022-07-12 01:29:03,770 INFO [root] [page_pm_artical.py (page_input_title:42] - 正在输入标题
+2022-07-12 01:29:03,770 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="文章名称"]')
+2022-07-12 01:29:03,780 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 01:29:09,851 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 01:29:09,910 INFO [root] [page_pm_artical.py (page_input_content:47] - 正在输入内容
+2022-07-12 01:29:14,702 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="727f177843e6867683b94de9cbc149a0")>
+2022-07-12 01:29:14,702 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="727f177843e6867683b94de9cbc149a0")>
+2022-07-12 01:29:14,702 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="727f177843e6867683b94de9cbc149a0")>
+2022-07-12 01:29:14,703 INFO [root] [page_pm_login.py (page_login_article:48] - 正在执行登入操作，用户名：13911111111,验证码：246810
+2022-07-12 01:29:14,703 INFO [root] [page_pm_login.py (page_input_username:24] - 输入用户名：13911111111
+2022-07-12 01:29:14,703 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请输入手机号"]')
+2022-07-12 01:29:14,718 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 01:29:20,797 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 01:29:20,834 INFO [root] [page_pm_login.py (page_input_code:28] - 输入验证码：246810
+2022-07-12 01:29:20,835 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="验证码"]')
+2022-07-12 01:29:20,843 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 01:29:26,925 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 01:29:29,961 INFO [root] [page_pm_login.py (page_click_login_btn:33] - 点击登入按钮
+2022-07-12 01:29:29,961 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 01:29:29,961 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-button el-button--primary"]')
+2022-07-12 01:29:30,006 INFO [root] [page_pm_artical.py (page_click_content:30] - 正在点击内容发布
+2022-07-12 01:29:30,007 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 01:29:30,007 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-submenu__title"]')
+2022-07-12 01:29:31,108 INFO [root] [page_pm_artical.py (page_click_postartical:35] - 点击发布文章
+2022-07-12 01:29:31,109 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//li[contains(text(), '发布文章')]")
+2022-07-12 01:29:36,405 INFO [root] [page_pm_artical.py (page_input_title:42] - 正在输入标题
+2022-07-12 01:29:36,405 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="文章名称"]')
+2022-07-12 01:29:36,416 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 01:29:42,486 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 01:29:42,555 INFO [root] [page_pm_artical.py (page_input_content:47] - 正在输入内容
+2022-07-12 01:29:47,374 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="b832eeaf6be31f574dd1a4cedba89b6c")>
+2022-07-12 01:29:47,375 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="b832eeaf6be31f574dd1a4cedba89b6c")>
+2022-07-12 01:29:47,375 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="b832eeaf6be31f574dd1a4cedba89b6c")>
+2022-07-12 01:29:47,377 INFO [root] [page_pm_login.py (page_login_task:41] - 正在执行登入操作，用户名：13911111111,验证码246810
+2022-07-12 01:29:47,377 INFO [root] [page_pm_login.py (page_input_username:24] - 输入用户名：13911111111
+2022-07-12 01:29:47,377 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请输入手机号"]')
+2022-07-12 01:29:47,403 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 01:29:53,515 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 01:29:53,551 INFO [root] [page_pm_login.py (page_input_code:28] - 输入验证码：246810
+2022-07-12 01:29:53,551 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="验证码"]')
+2022-07-12 01:29:53,560 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 01:29:59,626 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 01:30:02,656 INFO [root] [page_pm_login.py (page_click_login_btn:33] - 点击登入按钮
+2022-07-12 01:30:02,656 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 01:30:02,656 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-button el-button--primary"]')
+2022-07-12 01:30:02,700 INFO [root] [base.py (base_get_text:50] - 正在获取('css selector', '[class="user-name"]')的信息
+2022-07-12 01:30:02,700 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="user-name"]')
+2022-07-12 01:30:03,241 INFO [root] [page_pm_login.py (get_usertext:37] - 获取登入用户名为：陶奇别学了
+2022-07-12 01:30:03,241 INFO [root] [base.py (base_get_text:50] - 正在获取('css selector', '[class="user-name"]')的信息
+2022-07-12 01:30:03,241 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="user-name"]')
+2022-07-12 01:30:03,348 INFO [root] [test_page_pm_login.py (test_login:35] - 输出错误信息：assert '测试test' == '陶奇别学了'
+  - 陶奇别学了
+  + 测试test
+2022-07-12 01:30:03,349 ERROR [root] [base.py (base_get_errimg:72] - 断言错误，正在截图
+2022-07-12 01:30:03,599 ERROR [root] [base.py (base_get_errimg:74] - 正在将截图写入报告
+2022-07-12 01:30:03,670 INFO [root] [page_pm_login.py (page_login_task:41] - 正在执行登入操作，用户名：13911111111,验证码246810
+2022-07-12 01:30:03,670 INFO [root] [page_pm_login.py (page_input_username:24] - 输入用户名：13911111111
+2022-07-12 01:30:03,670 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请输入手机号"]')
+2022-07-12 01:30:19,000 INFO [root] [page_pm_artical.py (page_click_content:30] - 正在点击内容发布
+2022-07-12 01:30:19,000 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 01:30:19,000 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-submenu__title"]')
+2022-07-12 01:30:19,039 INFO [root] [page_pm_artical.py (page_click_postartical:35] - 点击发布文章
+2022-07-12 01:30:19,039 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//li[contains(text(), '发布文章')]")
+2022-07-12 01:30:24,326 INFO [root] [page_pm_artical.py (page_input_title:42] - 正在输入标题
+2022-07-12 01:30:24,326 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="文章名称"]')
+2022-07-12 01:30:24,326 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 01:30:30,405 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 01:30:30,463 INFO [root] [page_pm_artical.py (page_input_content:47] - 正在输入内容
+2022-07-12 01:30:35,171 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="a893a4a2913c7501ecdee9c6d2e705b8")>
+2022-07-12 01:30:35,171 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="a893a4a2913c7501ecdee9c6d2e705b8")>
+2022-07-12 01:30:35,171 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="a893a4a2913c7501ecdee9c6d2e705b8")>
+2022-07-12 01:30:35,172 INFO [root] [page_pm_artical.py (page_click_content:30] - 正在点击内容发布
+2022-07-12 01:30:35,172 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 01:30:35,172 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-submenu__title"]')
+2022-07-12 19:15:34,784 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="8039c53f7bfdd84e07c3229444b7ac2c")>
+2022-07-12 19:15:34,880 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="8039c53f7bfdd84e07c3229444b7ac2c")>
+2022-07-12 19:15:34,880 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="8039c53f7bfdd84e07c3229444b7ac2c")>
+2022-07-12 19:15:34,896 INFO [root] [page_pm_login.py (page_login_article:48] - 正在执行登入操作，用户名：13911111111,验证码：246810
+2022-07-12 19:15:34,896 INFO [root] [page_pm_login.py (page_input_username:24] - 输入用户名：13911111111
+2022-07-12 19:15:34,896 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请输入手机号"]')
+2022-07-12 19:15:34,920 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 19:15:41,052 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 19:15:41,090 INFO [root] [page_pm_login.py (page_input_code:28] - 输入验证码：246810
+2022-07-12 19:15:41,090 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="验证码"]')
+2022-07-12 19:15:41,098 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 19:15:47,188 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 19:15:50,232 INFO [root] [page_pm_login.py (page_click_login_btn:33] - 点击登入按钮
+2022-07-12 19:15:50,232 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 19:15:50,232 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-button el-button--primary"]')
+2022-07-12 19:15:50,285 INFO [root] [page_pm_artical.py (page_click_content:30] - 正在点击内容发布
+2022-07-12 19:15:50,285 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 19:15:50,285 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-submenu__title"]')
+2022-07-12 19:15:51,561 INFO [root] [page_pm_artical.py (page_click_postartical:35] - 点击发布文章
+2022-07-12 19:15:51,569 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//li[contains(text(), '发布文章')]")
+2022-07-12 19:15:56,872 INFO [root] [page_pm_artical.py (page_input_title:42] - 正在输入标题
+2022-07-12 19:15:56,872 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="文章名称"]')
+2022-07-12 19:15:56,888 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 19:16:02,975 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 19:16:03,046 INFO [root] [page_pm_artical.py (page_input_content:47] - 正在输入内容
+2022-07-12 19:16:08,003 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="ecda1307a63d3ad4f9148b0bdd08d7b6")>
+2022-07-12 19:16:08,003 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="ecda1307a63d3ad4f9148b0bdd08d7b6")>
+2022-07-12 19:16:08,003 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="ecda1307a63d3ad4f9148b0bdd08d7b6")>
+2022-07-12 19:16:08,003 INFO [root] [page_pm_login.py (page_login_article:48] - 正在执行登入操作，用户名：13911111111,验证码：246810
+2022-07-12 19:16:08,003 INFO [root] [page_pm_login.py (page_input_username:24] - 输入用户名：13911111111
+2022-07-12 19:16:08,003 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请输入手机号"]')
+2022-07-12 19:16:08,019 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 19:16:14,104 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 19:16:14,143 INFO [root] [page_pm_login.py (page_input_code:28] - 输入验证码：246810
+2022-07-12 19:16:14,143 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="验证码"]')
+2022-07-12 19:16:14,151 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 19:16:20,228 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 19:16:23,263 INFO [root] [page_pm_login.py (page_click_login_btn:33] - 点击登入按钮
+2022-07-12 19:16:23,263 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 19:16:23,263 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-button el-button--primary"]')
+2022-07-12 19:16:23,326 INFO [root] [page_pm_artical.py (page_click_content:30] - 正在点击内容发布
+2022-07-12 19:16:23,326 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 19:16:23,326 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-submenu__title"]')
+2022-07-12 19:16:24,437 INFO [root] [page_pm_artical.py (page_click_postartical:35] - 点击发布文章
+2022-07-12 19:16:24,437 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//li[contains(text(), '发布文章')]")
+2022-07-12 19:16:29,774 INFO [root] [page_pm_artical.py (page_input_title:42] - 正在输入标题
+2022-07-12 19:16:29,774 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="文章名称"]')
+2022-07-12 19:16:29,791 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 19:16:35,860 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 19:16:35,922 INFO [root] [page_pm_artical.py (page_input_content:47] - 正在输入内容
+2022-07-12 19:16:41,284 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="d713391d93d799f9f4e4211bc7cce266")>
+2022-07-12 19:16:41,292 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="d713391d93d799f9f4e4211bc7cce266")>
+2022-07-12 19:16:41,292 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="d713391d93d799f9f4e4211bc7cce266")>
+2022-07-12 19:16:41,292 INFO [root] [page_pm_login.py (page_login_task:41] - 正在执行登入操作，用户名：13911111111,验证码246810
+2022-07-12 19:16:41,292 INFO [root] [page_pm_login.py (page_input_username:24] - 输入用户名：13911111111
+2022-07-12 19:16:41,292 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请输入手机号"]')
+2022-07-12 19:16:41,308 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 19:16:47,390 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 19:16:47,428 INFO [root] [page_pm_login.py (page_input_code:28] - 输入验证码：246810
+2022-07-12 19:16:47,428 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="验证码"]')
+2022-07-12 19:16:47,436 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 19:16:53,532 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 19:16:56,576 INFO [root] [page_pm_login.py (page_click_login_btn:33] - 点击登入按钮
+2022-07-12 19:16:56,576 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 19:16:56,576 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-button el-button--primary"]')
+2022-07-12 19:16:56,626 INFO [root] [base.py (base_get_text:50] - 正在获取('css selector', '[class="user-name"]')的信息
+2022-07-12 19:16:56,626 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="user-name"]')
+2022-07-12 19:16:57,166 INFO [root] [page_pm_login.py (get_usertext:37] - 获取登入用户名为：测试test
+2022-07-12 19:16:57,166 INFO [root] [base.py (base_get_text:50] - 正在获取('css selector', '[class="user-name"]')的信息
+2022-07-12 19:16:57,166 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="user-name"]')
+2022-07-12 19:16:57,291 INFO [root] [page_pm_artical.py (page_click_content:30] - 正在点击内容发布
+2022-07-12 19:16:57,291 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 19:16:57,291 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-submenu__title"]')
+2022-07-12 19:16:57,423 INFO [root] [page_pm_artical.py (page_click_postartical:35] - 点击发布文章
+2022-07-12 19:16:57,423 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//li[contains(text(), '发布文章')]")
+2022-07-12 19:17:02,740 INFO [root] [page_pm_artical.py (page_input_title:42] - 正在输入标题
+2022-07-12 19:17:02,740 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="文章名称"]')
+2022-07-12 19:17:02,764 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 19:17:08,856 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 19:17:08,934 INFO [root] [page_pm_artical.py (page_input_content:47] - 正在输入内容
+2022-07-12 19:17:13,656 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="fba5d8a6c21ebf925a0e23091f3a8934")>
+2022-07-12 19:17:13,656 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="fba5d8a6c21ebf925a0e23091f3a8934")>
+2022-07-12 19:17:13,656 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="fba5d8a6c21ebf925a0e23091f3a8934")>
+2022-07-12 19:17:13,656 INFO [root] [page_pm_artical.py (page_click_content:30] - 正在点击内容发布
+2022-07-12 19:17:13,656 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 19:17:13,656 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-submenu__title"]')
+2022-07-12 19:23:05,037 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="e0e0c374e3e224b4b887b2739bb97d85")>
+2022-07-12 19:23:05,045 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="e0e0c374e3e224b4b887b2739bb97d85")>
+2022-07-12 19:23:05,045 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="e0e0c374e3e224b4b887b2739bb97d85")>
+2022-07-12 19:23:05,045 INFO [root] [page_pm_login.py (page_login_article:48] - 正在执行登入操作，用户名：13911111111,验证码：246810
+2022-07-12 19:23:05,045 INFO [root] [page_pm_login.py (page_input_username:24] - 输入用户名：13911111111
+2022-07-12 19:23:05,045 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请输入手机号"]')
+2022-07-12 19:23:05,068 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 19:23:11,159 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 19:23:11,196 INFO [root] [page_pm_login.py (page_input_code:28] - 输入验证码：246810
+2022-07-12 19:23:11,196 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="验证码"]')
+2022-07-12 19:23:11,205 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 19:23:17,301 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 19:23:20,349 INFO [root] [page_pm_login.py (page_click_login_btn:33] - 点击登入按钮
+2022-07-12 19:23:20,349 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 19:23:20,349 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-button el-button--primary"]')
+2022-07-12 19:23:20,390 INFO [root] [page_pm_artical.py (page_click_content:30] - 正在点击内容发布
+2022-07-12 19:23:20,390 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 19:23:20,390 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-submenu__title"]')
+2022-07-12 19:23:21,523 INFO [root] [page_pm_artical.py (page_click_postartical:35] - 点击发布文章
+2022-07-12 19:23:21,531 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//li[contains(text(), '发布文章')]")
+2022-07-12 19:23:26,878 INFO [root] [page_pm_artical.py (page_input_title:42] - 正在输入标题
+2022-07-12 19:23:26,878 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="文章名称"]')
+2022-07-12 19:23:26,878 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 19:23:32,963 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 19:23:33,031 INFO [root] [page_pm_artical.py (page_input_content:47] - 正在输入内容
+2022-07-12 19:23:37,817 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="5e55ac8ea68870ba1ca9b7215ef5237f")>
+2022-07-12 19:23:37,817 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="5e55ac8ea68870ba1ca9b7215ef5237f")>
+2022-07-12 19:23:37,817 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="5e55ac8ea68870ba1ca9b7215ef5237f")>
+2022-07-12 19:23:37,817 INFO [root] [page_pm_login.py (page_login_article:48] - 正在执行登入操作，用户名：13911111111,验证码：246810
+2022-07-12 19:23:37,817 INFO [root] [page_pm_login.py (page_input_username:24] - 输入用户名：13911111111
+2022-07-12 19:23:37,817 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请输入手机号"]')
+2022-07-12 19:23:37,833 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 19:23:43,929 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 19:23:43,968 INFO [root] [page_pm_login.py (page_input_code:28] - 输入验证码：246810
+2022-07-12 19:23:43,968 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="验证码"]')
+2022-07-12 19:23:43,976 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 19:23:50,061 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 19:23:53,101 INFO [root] [page_pm_login.py (page_click_login_btn:33] - 点击登入按钮
+2022-07-12 19:23:53,101 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 19:23:53,101 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-button el-button--primary"]')
+2022-07-12 19:23:53,147 INFO [root] [page_pm_artical.py (page_click_content:30] - 正在点击内容发布
+2022-07-12 19:23:53,147 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 19:23:53,147 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-submenu__title"]')
+2022-07-12 19:23:54,332 INFO [root] [page_pm_artical.py (page_click_postartical:35] - 点击发布文章
+2022-07-12 19:23:54,334 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//li[contains(text(), '发布文章')]")
+2022-07-12 19:23:59,659 INFO [root] [page_pm_artical.py (page_input_title:42] - 正在输入标题
+2022-07-12 19:23:59,659 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="文章名称"]')
+2022-07-12 19:23:59,675 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 19:24:05,752 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 19:24:05,825 INFO [root] [page_pm_artical.py (page_input_content:47] - 正在输入内容
+2022-07-12 19:24:10,674 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="48e94dac9d62104ea88e908321694764")>
+2022-07-12 19:24:10,674 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="48e94dac9d62104ea88e908321694764")>
+2022-07-12 19:24:10,674 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="48e94dac9d62104ea88e908321694764")>
+2022-07-12 19:24:10,682 INFO [root] [page_pm_login.py (page_login_task:41] - 正在执行登入操作，用户名：13911111111,验证码246810
+2022-07-12 19:24:10,682 INFO [root] [page_pm_login.py (page_input_username:24] - 输入用户名：13911111111
+2022-07-12 19:24:10,682 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请输入手机号"]')
+2022-07-12 19:24:10,706 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 19:24:26,211 INFO [root] [page_pm_login.py (page_login_task:41] - 正在执行登入操作，用户名：13911111111,验证码246810
+2022-07-12 19:24:26,211 INFO [root] [page_pm_login.py (page_input_username:24] - 输入用户名：13911111111
+2022-07-12 19:24:26,211 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请输入手机号"]')
+2022-07-12 19:24:38,454 INFO [root] [page_pm_artical.py (page_click_content:30] - 正在点击内容发布
+2022-07-12 19:24:38,454 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 19:24:38,454 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-submenu__title"]')
+2022-07-12 19:24:55,630 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="11e612cf3b732db761f6c5ca868420c5")>
+2022-07-12 19:24:55,630 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="11e612cf3b732db761f6c5ca868420c5")>
+2022-07-12 19:24:55,630 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="11e612cf3b732db761f6c5ca868420c5")>
+2022-07-12 19:24:55,638 INFO [root] [page_pm_artical.py (page_click_content:30] - 正在点击内容发布
+2022-07-12 19:24:55,638 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 19:24:55,638 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-submenu__title"]')
+2022-07-12 19:31:56,795 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="be1d827a6c2a33e2165dd2441cbe3c05")>
+2022-07-12 19:31:56,803 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="be1d827a6c2a33e2165dd2441cbe3c05")>
+2022-07-12 19:31:56,803 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="be1d827a6c2a33e2165dd2441cbe3c05")>
+2022-07-12 19:31:56,803 INFO [root] [page_pm_login.py (page_login_article:48] - 正在执行登入操作，用户名：13911111111,验证码：246810
+2022-07-12 19:31:56,803 INFO [root] [page_pm_login.py (page_input_username:24] - 输入用户名：13911111111
+2022-07-12 19:31:56,803 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请输入手机号"]')
+2022-07-12 19:31:56,835 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 19:32:02,926 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 19:32:02,965 INFO [root] [page_pm_login.py (page_input_code:28] - 输入验证码：246810
+2022-07-12 19:32:02,965 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="验证码"]')
+2022-07-12 19:32:02,973 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 19:32:09,054 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 19:32:12,087 INFO [root] [page_pm_login.py (page_click_login_btn:33] - 点击登入按钮
+2022-07-12 19:32:12,087 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 19:32:12,087 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-button el-button--primary"]')
+2022-07-12 19:32:12,136 INFO [root] [page_pm_artical.py (page_click_content:30] - 正在点击内容发布
+2022-07-12 19:32:12,136 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 19:32:12,136 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-submenu__title"]')
+2022-07-12 19:32:13,206 INFO [root] [page_pm_artical.py (page_click_postartical:35] - 点击发布文章
+2022-07-12 19:32:13,206 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//li[contains(text(), '发布文章')]")
+2022-07-12 19:32:18,538 INFO [root] [page_pm_artical.py (page_input_title:42] - 正在输入标题
+2022-07-12 19:32:18,538 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="文章名称"]')
+2022-07-12 19:32:18,554 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 19:32:24,636 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 19:32:24,705 INFO [root] [page_pm_artical.py (page_input_content:47] - 正在输入内容
+2022-07-12 20:51:16,449 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="99629e1c7e1d77a82a4d4a66d265a7f3")>
+2022-07-12 20:51:16,465 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="99629e1c7e1d77a82a4d4a66d265a7f3")>
+2022-07-12 20:51:16,465 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="99629e1c7e1d77a82a4d4a66d265a7f3")>
+2022-07-12 20:51:16,497 INFO [root] [page_pm_login.py (page_login_article:48] - 正在执行登入操作，用户名：13911111111,验证码：246810
+2022-07-12 20:51:16,497 INFO [root] [page_pm_login.py (page_input_username:24] - 输入用户名：13911111111
+2022-07-12 20:51:16,497 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请输入手机号"]')
+2022-07-12 20:51:16,528 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 20:51:22,662 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 20:51:22,700 INFO [root] [page_pm_login.py (page_input_code:28] - 输入验证码：246810
+2022-07-12 20:51:22,700 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="验证码"]')
+2022-07-12 20:51:22,708 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 20:51:28,791 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 20:51:31,821 INFO [root] [page_pm_login.py (page_click_login_btn:33] - 点击登入按钮
+2022-07-12 20:51:31,821 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 20:51:31,821 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-button el-button--primary"]')
+2022-07-12 20:51:31,875 INFO [root] [page_pm_artical.py (page_click_content:30] - 正在点击内容发布
+2022-07-12 20:51:31,875 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 20:51:31,875 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-submenu__title"]')
+2022-07-12 20:51:33,088 INFO [root] [page_pm_artical.py (page_click_postartical:35] - 点击发布文章
+2022-07-12 20:51:33,088 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//li[contains(text(), '发布文章')]")
+2022-07-12 20:51:38,433 INFO [root] [page_pm_artical.py (page_input_title:42] - 正在输入标题
+2022-07-12 20:51:38,433 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="文章名称"]')
+2022-07-12 20:51:38,456 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 20:51:44,552 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 20:51:44,626 INFO [root] [page_pm_artical.py (page_input_content:47] - 正在输入内容
+2022-07-12 20:51:44,650 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[id="tinymce"]')
+2022-07-12 20:51:44,658 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 20:51:50,769 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 20:51:50,833 INFO [root] [page_pm_artical.py (page_click_type:54] - 正在选择自动类型
+2022-07-12 20:51:50,833 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 20:51:50,833 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//span[contains(text(), '自动')]")
+2022-07-12 20:51:50,880 INFO [root] [page_pm_artical.py (page_click_channel:59] - 正在选择频道
+2022-07-12 20:51:50,880 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 20:51:50,880 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请选择"]')
+2022-07-12 20:51:53,955 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 20:51:53,955 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//*[text()='数据库']")
+2022-07-12 20:51:54,015 INFO [root] [page_pm_artical.py (page_publish_artical:64] - 点击发表
+2022-07-12 20:51:54,015 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 20:51:54,015 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-button filter-item el-button--primary"]')
+2022-07-12 20:51:54,064 INFO [root] [page_pm_artical.py (page_get_tost:69] - 正在获取提示
+2022-07-12 20:51:54,064 INFO [root] [base.py (base_get_text:50] - 正在获取('xpath', "//p[contains(text(), '新增文章成功')]")的信息
+2022-07-12 20:51:54,064 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//p[contains(text(), '新增文章成功')]")
+2022-07-12 20:52:34,383 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="3353cae54fd2353e0d4e8c529e60daf6")>
+2022-07-12 20:52:34,383 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="3353cae54fd2353e0d4e8c529e60daf6")>
+2022-07-12 20:52:34,391 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="3353cae54fd2353e0d4e8c529e60daf6")>
+2022-07-12 20:52:34,391 INFO [root] [page_pm_login.py (page_login_article:48] - 正在执行登入操作，用户名：13911111111,验证码：246810
+2022-07-12 20:52:34,391 INFO [root] [page_pm_login.py (page_input_username:24] - 输入用户名：13911111111
+2022-07-12 20:52:34,391 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请输入手机号"]')
+2022-07-12 20:52:34,404 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 20:52:40,525 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 20:52:40,564 INFO [root] [page_pm_login.py (page_input_code:28] - 输入验证码：246810
+2022-07-12 20:52:40,564 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="验证码"]')
+2022-07-12 20:52:40,578 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 20:52:46,664 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 20:52:49,704 INFO [root] [page_pm_login.py (page_click_login_btn:33] - 点击登入按钮
+2022-07-12 20:52:49,704 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 20:52:49,704 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-button el-button--primary"]')
+2022-07-12 20:52:49,756 INFO [root] [page_pm_artical.py (page_click_content:30] - 正在点击内容发布
+2022-07-12 20:52:49,756 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 20:52:49,756 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-submenu__title"]')
+2022-07-12 20:52:51,078 INFO [root] [page_pm_artical.py (page_click_postartical:35] - 点击发布文章
+2022-07-12 20:52:51,078 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//li[contains(text(), '发布文章')]")
+2022-07-12 20:52:56,412 INFO [root] [page_pm_artical.py (page_input_title:42] - 正在输入标题
+2022-07-12 20:52:56,412 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="文章名称"]')
+2022-07-12 20:52:56,421 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 20:53:02,505 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 20:53:02,579 INFO [root] [page_pm_artical.py (page_input_content:47] - 正在输入内容
+2022-07-12 20:53:02,603 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[id="tinymce"]')
+2022-07-12 20:53:02,611 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 20:53:08,728 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 20:53:08,799 INFO [root] [page_pm_artical.py (page_click_type:54] - 正在选择自动类型
+2022-07-12 20:53:08,799 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 20:53:08,807 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//span[contains(text(), '自动')]")
+2022-07-12 20:53:08,855 INFO [root] [page_pm_artical.py (page_click_channel:59] - 正在选择频道
+2022-07-12 20:53:08,855 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 20:53:08,855 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请选择"]')
+2022-07-12 20:53:11,961 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 20:53:11,961 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//*[text()='数据库']")
+2022-07-12 20:53:12,021 INFO [root] [page_pm_artical.py (page_publish_artical:64] - 点击发表
+2022-07-12 20:53:12,021 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 20:53:12,021 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-button filter-item el-button--primary"]')
+2022-07-12 20:53:12,069 INFO [root] [page_pm_artical.py (page_get_tost:69] - 正在获取提示
+2022-07-12 20:53:12,069 INFO [root] [base.py (base_get_text:50] - 正在获取('xpath', "//p[contains(text(), '新增文章成功')]")的信息
+2022-07-12 20:53:12,069 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//p[contains(text(), '新增文章成功')]")
+2022-07-12 20:53:12,649 INFO [root] [test_page_pm_artical.py (test_artical:38] - 输出错误信息：assert '新增文章成功' == ''
+  + 新增文章成功
+2022-07-12 20:53:12,649 ERROR [root] [base.py (base_get_errimg:72] - 断言错误，正在截图
+2022-07-12 20:53:12,977 ERROR [root] [base.py (base_get_errimg:74] - 正在将截图写入报告
+2022-07-12 20:59:03,025 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="a23493dae9b41a96a23e7f885c6ffe4f")>
+2022-07-12 20:59:03,025 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="a23493dae9b41a96a23e7f885c6ffe4f")>
+2022-07-12 20:59:03,025 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="a23493dae9b41a96a23e7f885c6ffe4f")>
+2022-07-12 20:59:03,025 INFO [root] [page_pm_login.py (page_login_article:48] - 正在执行登入操作，用户名：13911111111,验证码：246810
+2022-07-12 20:59:03,025 INFO [root] [page_pm_login.py (page_input_username:24] - 输入用户名：13911111111
+2022-07-12 20:59:03,025 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请输入手机号"]')
+2022-07-12 20:59:03,046 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 20:59:09,164 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 20:59:09,202 INFO [root] [page_pm_login.py (page_input_code:28] - 输入验证码：246810
+2022-07-12 20:59:09,202 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="验证码"]')
+2022-07-12 20:59:09,210 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 20:59:15,293 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 20:59:18,336 INFO [root] [page_pm_login.py (page_click_login_btn:33] - 点击登入按钮
+2022-07-12 20:59:18,336 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 20:59:18,336 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-button el-button--primary"]')
+2022-07-12 20:59:18,387 INFO [root] [page_pm_artical.py (page_click_content:30] - 正在点击内容发布
+2022-07-12 20:59:18,387 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 20:59:18,387 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-submenu__title"]')
+2022-07-12 20:59:19,463 INFO [root] [page_pm_artical.py (page_click_postartical:35] - 点击发布文章
+2022-07-12 20:59:19,463 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//li[contains(text(), '发布文章')]")
+2022-07-12 20:59:24,792 INFO [root] [page_pm_artical.py (page_input_title:42] - 正在输入标题
+2022-07-12 20:59:24,792 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="文章名称"]')
+2022-07-12 20:59:24,807 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 20:59:30,888 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 20:59:30,966 INFO [root] [page_pm_artical.py (page_input_content:47] - 正在输入内容
+2022-07-12 20:59:30,990 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[id="tinymce"]')
+2022-07-12 20:59:30,998 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 20:59:37,133 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 20:59:37,204 INFO [root] [page_pm_artical.py (page_click_type:54] - 正在选择自动类型
+2022-07-12 20:59:37,204 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 20:59:37,204 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//span[contains(text(), '自动')]")
+2022-07-12 20:59:37,245 INFO [root] [page_pm_artical.py (page_click_channel:59] - 正在选择频道
+2022-07-12 20:59:37,245 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 20:59:37,245 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请选择"]')
+2022-07-12 20:59:40,325 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 20:59:40,325 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//*[text()='数据库']")
+2022-07-12 20:59:40,376 INFO [root] [page_pm_artical.py (page_publish_artical:64] - 点击发表
+2022-07-12 20:59:40,376 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 20:59:40,376 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-button filter-item el-button--primary"]')
+2022-07-12 20:59:40,416 INFO [root] [page_pm_artical.py (page_get_tost:69] - 正在获取提示
+2022-07-12 20:59:40,416 INFO [root] [base.py (base_get_text:50] - 正在获取('xpath', "//p[contains(text(), '新增文章成功')]")的信息
+2022-07-12 20:59:40,416 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//p[contains(text(), '新增文章成功')]")
+2022-07-12 20:59:40,972 INFO [root] [test_page_pm_artical.py (test_artical:38] - 输出错误信息：assert '新增文章s成功' == '新增文章成功'
+  - 新增文章成功
+  + 新增文章s成功
+  ?     +
+2022-07-12 20:59:40,972 ERROR [root] [base.py (base_get_errimg:72] - 断言错误，正在截图
+2022-07-12 20:59:41,306 ERROR [root] [base.py (base_get_errimg:74] - 正在将截图写入报告
+2022-07-12 20:59:46,392 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="d93a7f70c35ac8a83fb5cf802732c705")>
+2022-07-12 20:59:46,392 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="d93a7f70c35ac8a83fb5cf802732c705")>
+2022-07-12 20:59:46,392 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="d93a7f70c35ac8a83fb5cf802732c705")>
+2022-07-12 20:59:46,392 INFO [root] [page_pm_login.py (page_login_task:41] - 正在执行登入操作，用户名：13911111111,验证码246810
+2022-07-12 20:59:46,392 INFO [root] [page_pm_login.py (page_input_username:24] - 输入用户名：13911111111
+2022-07-12 20:59:46,392 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请输入手机号"]')
+2022-07-12 20:59:46,409 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 20:59:52,538 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 20:59:52,569 INFO [root] [page_pm_login.py (page_input_code:28] - 输入验证码：246810
+2022-07-12 20:59:52,569 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="验证码"]')
+2022-07-12 20:59:52,586 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 20:59:58,653 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 21:00:01,693 INFO [root] [page_pm_login.py (page_click_login_btn:33] - 点击登入按钮
+2022-07-12 21:00:01,693 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 21:00:01,693 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-button el-button--primary"]')
+2022-07-12 21:00:01,744 INFO [root] [base.py (base_get_text:50] - 正在获取('css selector', '[class="user-name"]')的信息
+2022-07-12 21:00:01,744 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="user-name"]')
+2022-07-12 21:00:02,276 INFO [root] [page_pm_login.py (get_usertext:37] - 获取登入用户名为：测试test
+2022-07-12 21:00:02,292 INFO [root] [base.py (base_get_text:50] - 正在获取('css selector', '[class="user-name"]')的信息
+2022-07-12 21:00:02,292 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="user-name"]')
+2022-07-12 21:00:02,322 INFO [root] [page_pm_artical.py (page_click_content:30] - 正在点击内容发布
+2022-07-12 21:00:02,322 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 21:00:02,322 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-submenu__title"]')
+2022-07-12 21:00:02,885 INFO [root] [page_pm_artical.py (page_click_postartical:35] - 点击发布文章
+2022-07-12 21:00:02,885 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//li[contains(text(), '发布文章')]")
+2022-07-12 21:00:08,186 INFO [root] [page_pm_artical.py (page_input_title:42] - 正在输入标题
+2022-07-12 21:00:08,186 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="文章名称"]')
+2022-07-12 21:00:08,218 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 21:00:14,301 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 21:00:14,381 INFO [root] [page_pm_artical.py (page_input_content:47] - 正在输入内容
+2022-07-12 21:00:14,421 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[id="tinymce"]')
+2022-07-12 21:00:14,437 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 21:00:20,603 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 21:00:20,670 INFO [root] [page_pm_artical.py (page_click_type:54] - 正在选择自动类型
+2022-07-12 21:00:20,670 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 21:00:20,670 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//span[contains(text(), '自动')]")
+2022-07-12 21:00:20,708 INFO [root] [page_pm_artical.py (page_click_channel:59] - 正在选择频道
+2022-07-12 21:00:20,708 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 21:00:20,708 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请选择"]')
+2022-07-12 21:00:23,781 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 21:00:23,781 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//*[text()='数据库']")
+2022-07-12 21:00:23,832 INFO [root] [page_pm_artical.py (page_publish_artical:64] - 点击发表
+2022-07-12 21:00:23,832 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 21:00:23,832 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-button filter-item el-button--primary"]')
+2022-07-12 21:00:23,877 INFO [root] [page_pm_artical.py (page_get_tost:69] - 正在获取提示
+2022-07-12 21:00:23,877 INFO [root] [base.py (base_get_text:50] - 正在获取('xpath', "//p[contains(text(), '新增文章成功')]")的信息
+2022-07-12 21:00:23,877 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//p[contains(text(), '新增文章成功')]")
+2022-07-12 21:00:24,427 INFO [root] [test_page_pm_login.py (test_artical:47] - 输出错误信息：assert '新增文章s成功' == '新增文章成功'
+  - 新增文章成功
+  + 新增文章s成功
+  ?     +
+2022-07-12 21:00:24,427 ERROR [root] [base.py (base_get_errimg:72] - 断言错误，正在截图
+2022-07-12 21:00:24,755 ERROR [root] [base.py (base_get_errimg:74] - 正在将截图写入报告
+2022-07-12 21:01:49,415 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="fbc6892c3df8eeac20bb3220ffbd5e5a")>
+2022-07-12 21:01:49,415 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="fbc6892c3df8eeac20bb3220ffbd5e5a")>
+2022-07-12 21:01:49,415 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="fbc6892c3df8eeac20bb3220ffbd5e5a")>
+2022-07-12 21:01:49,423 INFO [root] [page_pm_login.py (page_login_article:48] - 正在执行登入操作，用户名：13911111111,验证码：246810
+2022-07-12 21:01:49,423 INFO [root] [page_pm_login.py (page_input_username:24] - 输入用户名：13911111111
+2022-07-12 21:01:49,423 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请输入手机号"]')
+2022-07-12 21:01:49,447 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 21:01:55,562 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 21:01:55,601 INFO [root] [page_pm_login.py (page_input_code:28] - 输入验证码：246810
+2022-07-12 21:01:55,601 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="验证码"]')
+2022-07-12 21:01:55,609 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 21:02:01,693 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 21:02:04,723 INFO [root] [page_pm_login.py (page_click_login_btn:33] - 点击登入按钮
+2022-07-12 21:02:04,723 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 21:02:04,723 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-button el-button--primary"]')
+2022-07-12 21:02:04,769 INFO [root] [page_pm_artical.py (page_click_content:30] - 正在点击内容发布
+2022-07-12 21:02:04,769 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 21:02:04,769 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-submenu__title"]')
+2022-07-12 21:02:05,855 INFO [root] [page_pm_artical.py (page_click_postartical:35] - 点击发布文章
+2022-07-12 21:02:05,855 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//li[contains(text(), '发布文章')]")
+2022-07-12 21:02:11,187 INFO [root] [page_pm_artical.py (page_input_title:42] - 正在输入标题
+2022-07-12 21:02:11,187 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="文章名称"]')
+2022-07-12 21:02:11,211 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 21:02:17,297 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 21:02:17,384 INFO [root] [page_pm_artical.py (page_input_content:47] - 正在输入内容
+2022-07-12 21:02:17,408 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[id="tinymce"]')
+2022-07-12 21:02:17,416 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 21:02:23,537 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 21:02:23,612 INFO [root] [page_pm_artical.py (page_click_type:54] - 正在选择自动类型
+2022-07-12 21:02:23,612 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 21:02:23,612 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//span[contains(text(), '自动')]")
+2022-07-12 21:02:23,653 INFO [root] [page_pm_artical.py (page_click_channel:59] - 正在选择频道
+2022-07-12 21:02:23,653 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 21:02:23,653 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请选择"]')
+2022-07-12 21:02:26,723 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 21:02:26,723 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//*[text()='数据库']")
+2022-07-12 21:02:26,785 INFO [root] [page_pm_artical.py (page_publish_artical:64] - 点击发表
+2022-07-12 21:02:26,785 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 21:02:26,785 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-button filter-item el-button--primary"]')
+2022-07-12 21:02:26,825 INFO [root] [page_pm_artical.py (page_get_tost:69] - 正在获取提示
+2022-07-12 21:02:26,825 INFO [root] [base.py (base_get_text:50] - 正在获取('xpath', "//p[contains(text(), '新增文章成功')]")的信息
+2022-07-12 21:02:26,825 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//p[contains(text(), '新增文章成功')]")
+2022-07-12 21:02:32,415 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="6a8c2be20d05f4e092d4105aef549edf")>
+2022-07-12 21:02:32,415 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="6a8c2be20d05f4e092d4105aef549edf")>
+2022-07-12 21:02:32,415 INFO [root] [base.py (__init__:20] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="6a8c2be20d05f4e092d4105aef549edf")>
+2022-07-12 21:02:32,423 INFO [root] [page_pm_login.py (page_login_task:41] - 正在执行登入操作，用户名：13911111111,验证码246810
+2022-07-12 21:02:32,423 INFO [root] [page_pm_login.py (page_input_username:24] - 输入用户名：13911111111
+2022-07-12 21:02:32,423 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请输入手机号"]')
+2022-07-12 21:02:32,439 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 21:02:38,543 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 21:02:38,582 INFO [root] [page_pm_login.py (page_input_code:28] - 输入验证码：246810
+2022-07-12 21:02:38,582 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="验证码"]')
+2022-07-12 21:02:38,590 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 21:02:44,682 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 21:02:47,714 INFO [root] [page_pm_login.py (page_click_login_btn:33] - 点击登入按钮
+2022-07-12 21:02:47,714 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 21:02:47,714 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-button el-button--primary"]')
+2022-07-12 21:02:47,762 INFO [root] [base.py (base_get_text:50] - 正在获取('css selector', '[class="user-name"]')的信息
+2022-07-12 21:02:47,762 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="user-name"]')
+2022-07-12 21:02:48,288 INFO [root] [page_pm_login.py (get_usertext:37] - 获取登入用户名为：测试test
+2022-07-12 21:02:48,288 INFO [root] [base.py (base_get_text:50] - 正在获取('css selector', '[class="user-name"]')的信息
+2022-07-12 21:02:48,288 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="user-name"]')
+2022-07-12 21:02:48,325 INFO [root] [page_pm_artical.py (page_click_content:30] - 正在点击内容发布
+2022-07-12 21:02:48,325 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 21:02:48,325 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-submenu__title"]')
+2022-07-12 21:02:48,928 INFO [root] [page_pm_artical.py (page_click_postartical:35] - 点击发布文章
+2022-07-12 21:02:48,928 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//li[contains(text(), '发布文章')]")
+2022-07-12 21:02:54,238 INFO [root] [page_pm_artical.py (page_input_title:42] - 正在输入标题
+2022-07-12 21:02:54,238 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="文章名称"]')
+2022-07-12 21:02:54,254 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 21:03:00,329 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 21:03:00,414 INFO [root] [page_pm_artical.py (page_input_content:47] - 正在输入内容
+2022-07-12 21:03:00,438 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[id="tinymce"]')
+2022-07-12 21:03:00,450 INFO [root] [base.py (base_input:35] - 正在清理信息
+2022-07-12 21:03:06,560 INFO [root] [base.py (base_input:40] - 正在输入信息
+2022-07-12 21:03:06,637 INFO [root] [page_pm_artical.py (page_click_type:54] - 正在选择自动类型
+2022-07-12 21:03:06,637 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 21:03:06,637 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//span[contains(text(), '自动')]")
+2022-07-12 21:03:06,678 INFO [root] [page_pm_artical.py (page_click_channel:59] - 正在选择频道
+2022-07-12 21:03:06,678 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 21:03:06,678 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[placeholder="请选择"]')
+2022-07-12 21:03:09,748 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 21:03:09,748 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//*[text()='数据库']")
+2022-07-12 21:03:09,810 INFO [root] [page_pm_artical.py (page_publish_artical:64] - 点击发表
+2022-07-12 21:03:09,810 INFO [root] [base.py (base_click:45] - 正在进行点击操作
+2022-07-12 21:03:09,810 INFO [root] [base.py (base_find:25] - 正在查找元素('css selector', '[class="el-button filter-item el-button--primary"]')
+2022-07-12 21:03:09,858 INFO [root] [page_pm_artical.py (page_get_tost:69] - 正在获取提示
+2022-07-12 21:03:09,858 INFO [root] [base.py (base_get_text:50] - 正在获取('xpath', "//p[contains(text(), '新增文章成功')]")的信息
+2022-07-12 21:03:09,858 INFO [root] [base.py (base_find:25] - 正在查找元素('xpath', "//p[contains(text(), '新增文章成功')]")
