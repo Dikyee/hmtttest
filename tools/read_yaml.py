@@ -7,12 +7,3 @@ def read_yaml(file):
         for datas in yaml.safe_load(f).values():
             arr.append(tuple(datas.values()))
         return arr
-
-
-
-
-
-
-if __name__ == '__main__':
-    s=read_yaml("data_login.yaml")
-    print(s)

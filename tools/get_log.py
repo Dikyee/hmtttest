@@ -20,7 +20,7 @@ class GetLog(object):
             #获取格式器
             fmt = "%(asctime)s %(levelname)s [%(name)s] [%(filename)s (%(funcName)s:%(lineno)d] - %(message)s"
             fm = logging.Formatter(fmt)
-            #将格式器添加到处理器
+            #将格式器添加到处理器1
             th.setFormatter(fm)
             #将处理器添加到日志器
             cls.__logger.addHandler(th)

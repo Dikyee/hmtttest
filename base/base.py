@@ -74,13 +74,13 @@ class Base:
         log.error("正在将截图写入报告")
         self._base_write_img()
 
-    # 获取图片
+    # 获取图片1
     def base_get_infoimg(self):
         log.error("正在截图")
         self.driver.get_screenshot_as_file("./imgs/info.png")
 
 
-    # 写入照片
+    # 写入照片1
     def _base_write_img(self):
         with open("./imgs/eer.png","rb") as f:
             allure.attach(f.read(),"错误原因",allure.attachment_type.PNG)
