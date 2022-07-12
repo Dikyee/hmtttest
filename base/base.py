@@ -21,7 +21,7 @@ class Base:
         self.driver = driver
 
     # 查找方法封装
-    def base_find(self,loc,max_time=15,min_time=0.5):
+    def base_find(self,loc,max_time=30,min_time=0.5):
         log.info(f"正在查找元素{loc}")
         return WebDriverWait(self.driver,timeout=max_time,poll_frequency=min_time).until(lambda x:x.find_element(*loc))
 
